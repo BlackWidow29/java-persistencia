@@ -1,0 +1,2 @@
+package br.com.alura.loja.vo;public class RelatorioDeVendasVo {
+}
